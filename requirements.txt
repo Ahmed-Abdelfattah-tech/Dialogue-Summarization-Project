@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+accelerate
+datasets
+evaluate
+rouge_score
+huggingface_hub
