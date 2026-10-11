@@ -207,13 +207,3 @@ Beyond the metric, the project highlights an important lesson in generative NLP:
 ## 👤 Author
 
 **Ahmed Abdelfattah**
-
-Aspiring **Applied AI / LLM Engineer**
-
-Currently building practical experience across:
-
-- Machine Learning
-- Deep Learning
-- NLP
-- LLMs
-- Applied AI
